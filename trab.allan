@@ -1,4 +1,3 @@
-// identifique o erro e corrija o código a baixo 
 
 function verificarMaiorIdade(idade) {
 
@@ -6,12 +5,6 @@ function verificarMaiorIdade(idade) {
 
 }
 console.log(verificarMaiorIdade(20));
-
-
-
-
-//// complete o códigoFaça com que a variável arra tenha uma lista ordenada de de 10 posições de 0 a 9 
-
 function orderArray() {
     let array = [];
     for (let i = 0; i < 10; i++) {
@@ -23,7 +16,6 @@ console.log(orderArray());
 
 
 
-//  Substitua os dados do objeto reatribuído  e delete o campo idade sem alterar a declaração do mesmo
 
 function meusDados() {
     let pessoa = {
@@ -42,8 +34,6 @@ console.log(meusDados());
 
 
 
-// Manipule o Array para que ele traga as informações pedidas no objeto e atribua nas posições do objeto
-// ex: ordemAlfabetica: animais.short...  
 
 function manipulaArray() {
     let animais = ['cacohrro', 'gato', 'abelha', 'rato', 'leão', 'galinha'];
